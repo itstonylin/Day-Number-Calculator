@@ -24,6 +24,8 @@ class DayNumber
         leapYearValue = isLeapYearOrNot (year);
         numDaysMax = compareMonthTo (month);
 
+        System.out.println ("----------------------" );
+        
         // day calculations
         if (year >= 0)
         {
@@ -66,6 +68,8 @@ class DayNumber
             System.out.println ("Input(s) is(are) invalid.");
             System.out.println ("Day Number: ERROR");
         }
+        input.close();
+        System.out.println ("----------------------" );
     }
 
 

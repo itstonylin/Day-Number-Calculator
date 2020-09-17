@@ -7,7 +7,7 @@ This program will calculate the numerical day of the year based on the input of 
    <li>  Pick a number from 1-12 representing the months, for example 5 = may.</li>
    <li>  You can pick any day in that month, for example in the month of January you can pick between 1-31.</li>
 </ul>
-<div style="display: inline-block;">
+<div >
    <h4><strong>Example input:  </strong></h4>
    <p> 2020, 5, 2  </p>
    <h4><strong>Example output: </strong></h4>
